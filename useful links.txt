@@ -1,0 +1,15 @@
+Some useful links:
+http://seaborn.pydata.org/tutorial/distributions.html
+
+QQ plotting to compare with distribution
+https://en.wikipedia.org/wiki/Q%E2%80%93Q_plot
+
+Good intro to Fourier transform
+https://www.youtube.com/watch?v=spUNpyF58BY
+
+My favorite python editor:
+https://www.jetbrains.com/pycharm/download/
+
+Style guide for python code:
+https://www.python.org/dev/peps/pep-0008/
+
