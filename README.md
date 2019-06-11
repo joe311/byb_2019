@@ -10,7 +10,9 @@ Intro showing how the t-distribution can be directly computed from random data
 ### neuro data sim.ipynb
 Shows how to simulate calcium imaging data (without using any for loops!)
 
-Other useful links:
+
+
+### Other useful links:
 http://seaborn.pydata.org/tutorial/distributions.html
 
 QQ plotting to compare with distribution
